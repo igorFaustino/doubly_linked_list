@@ -1,8 +1,12 @@
 # depslib dependency file v1.0
-1475679743 source:/home/igor/programacao/list/doubly_linked_list/doubly_linked_list/src/doubly_linked_list.cpp
+1475693013 source:/home/igor/programacao/list/doubly_linked_list/doubly_linked_list/src/doubly_linked_list.cpp
 	"doubly_linked_list.h"
 
-1475679777 /home/igor/programacao/list/doubly_linked_list/doubly_linked_list/include/doubly_linked_list.h
+1475701651 /home/igor/programacao/list/doubly_linked_list/doubly_linked_list/include/doubly_linked_list.h
 	<iostream>
 	<string>
+
+1475693456 source:/home/igor/programacao/list/doubly_linked_list/doubly_linked_list/main.cpp
+	<iostream>
+	"doubly_linked_list.h"
 
